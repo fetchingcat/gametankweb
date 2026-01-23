@@ -35,7 +35,7 @@
 
 <div class="gallery" style="margin-top:5%">
     <center>
-        <h1>Live now <a href="https://www.crowdsupply.com/clydeware/gametank">Crowd Supply</a>!! Order yours today to help make this production run happen!</h1>
+        <h1>Live now on<a href="https://www.crowdsupply.com/clydeware/gametank">Crowd Supply</a>!! Order yours today to help make this production run happen!</h1>
         <p>
             Crowdfunding runs until Feb 26 with a July 2026 delivery target. Includes a cartridge flasher and a blank cartridge, along with a physical copy of Accursed Fiend.
         </p>
