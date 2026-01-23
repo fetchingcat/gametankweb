@@ -16,7 +16,7 @@
 <div style="height:75%; position:relative; max-height:33vw;">
     <div style="height:100%; width:50%; display:inline-block">
     </div>
-    <img style="height:100%; display:inline-block" src="img/gametank_front.png"/>
+    <img style="height:100%; display:inline-block" src="img/gametank-angle-01.jpg"/>
     <div style="position: absolute; top: 5%; left: 10%;">
     <span style="font-size:2vw; font-family: 'Manifestly', sans-serif;">Introducing the</span><br>
     <span style="font-size: 5vw; font-family:'DePixel', sans-serif;">GAMETANK</span>
@@ -35,11 +35,15 @@
 
 <div class="gallery" style="margin-top:5%">
     <center>
-        <h2>The GameTank is an open source 8-bit retroconsole that YOU can build, and build games for.</h2>
+        <h1>Live now <a href="https://www.crowdsupply.com/clydeware/gametank">Crowd Supply</a>!! Order yours today to help make this production run happen!</h1>
+        <p>
+            Crowdfunding runs until Feb 26 with a July 2026 delivery target. Includes a cartridge flasher and a blank cartridge, along with a physical copy of Accursed Fiend.
+        </p>
     </center>
     <center>
-        <h2>Subscribe to the project on <a href="https://www.crowdsupply.com/clydeware/gametank">Crowd Supply</a> to find out when you can order prebuilt units!</h2>
+        <h2>The GameTank is an open source 8-bit retroconsole that YOU can build, and build games for.</h2>
     </center>
+    
     <p>
         Similar in spirit to fantasy consoles like the Pico-8 or TIC-80, the GameTank is set apart by its implementation as a <em>physical hardware device first</em>,
         followed by an emulator second. Games are written in assembly, or a mix of C and assembly. The special hardware features of the GameTank - such as the
